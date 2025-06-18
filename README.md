@@ -36,7 +36,6 @@ lib/
 ├── services/         # Firebase & HTTP services
 └── widgets/          # Reusable UI components
 ```
-````
 
 ---
 
