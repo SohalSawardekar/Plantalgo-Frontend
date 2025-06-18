@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677374036619",
+    "project_id": "plantalgo-19c98",
+    "storage_bucket": "plantalgo-19c98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677374036619:android:ee4909fad5f053bdb7a28e",
+        "android_client_info": {
+          "package_name": "com.example.plantalgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlyNonvsYhhARH-EfDU6LsHjOWPUPYdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
